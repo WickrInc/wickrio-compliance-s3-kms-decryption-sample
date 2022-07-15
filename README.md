@@ -17,9 +17,9 @@ You can use cmake to build the sample code to an executable binary.  Running the
 
 The region is the AWS region where the S3 bucket and KMS Master key is located.  The "S3 bucketname" is the name of the S3 bucket.  The "S3 folder" is the name of the folder in the S3 bucket where the files are located. The "KMS ARN" is the ARN used to encrypt the files located in the S3 bucket. The "desination directory" is the location where the decrypted files should be put.
 
--## Security
+## Security
  
--See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
 ## License
 
